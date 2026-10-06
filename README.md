@@ -38,11 +38,11 @@ Each customer appears once in the supplied CSV. Revenue refers to the sum of rec
 
 ## Dashboard
 
-![Customer shopping behavior dashboard](Customer shopping behavior dashboard.png)
+![Customer shopping behavior dashboard](Customer%20shopping%20behavior%20dashboard.png)
 
 The Power BI dashboard presents customer metrics, category revenue, purchase counts, subscription participation, and age-group comparisons. Filters support exploration by subscription status, gender, category, and shipping type.
 
-[Open Power BI file](Customer_Behaviour.pbix) · [View analysis report](Customer%20Shopping%20Behavior%20Analysis.pdf) · [View presentation](Customer-behaviour.pptx)
+[Open Power BI file](Customer_Behaviour.pbix) · [View presentation](Customer-behaviour.pptx)
 
 ## Key Findings
 
