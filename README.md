@@ -96,7 +96,6 @@ These evaluation measures require additional data or controlled experiments and 
 | [customer_shopping_behavior.csv](customer_shopping_behavior.csv) | Source data |
 | [Customer_shopping_behaviour.sql](Customer_shopping_behaviour.sql) | Analysis queries |
 | [Customer_Behaviour.pbix](Customer_Behaviour.pbix) | Power BI report |
-| [Customer Shopping Behavior Analysis.pdf](Customer%20Shopping%20Behavior%20Analysis.pdf) | Supporting analysis report |
 | [Customer-behaviour.pptx](Customer-behaviour.pptx) | Presentation |
 
 The SQL script expects a prepared `customer` table with standardized column names and an `age_group` field. It is an analysis script, not a complete database setup script. The original repository includes the Python preparation notebook.
